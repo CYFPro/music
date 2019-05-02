@@ -1,8 +1,8 @@
 $(function () {
 	"use strict";
 
-	// if (!/(www.qqyy.com|tool.liumingye.cn|lab.liumingye.cn)/i.test(location.href)) {
-		// location.href = 'http://tool.liumingye.cn/music/';
+	// if (!/(www.qqyy.com|cyfm.herokuapp.com|cyfm.herokuapp.com)/i.test(location.href)) {
+		// location.href = 'https://cyfm.herokuapp.com';
 	// }
 
 	// $.ajax({
@@ -315,32 +315,7 @@ $(function () {
 		}
 	});
 
-	// 公告获取
-	$(function () {
-		var build = function (html) {
-			$$('#msg').html(html[0].text);
-			$.each(html, function (index) {
-				if (!index)
-					return;
-				pop(html[index].text, html[index].style, html[index].time);
-			});
-		};
-		$.ajax({
-			url: 'msg/get',
-			type: "post",
-			success: function success(res) {
-				cache.set('msg', res.data);
-				build(res.data);
-			},
-			error: function error() {
-				var data = cache.get('msg');
-				if (data) {
-					build(data);
-				}
-			}
-		});
-	});
-
+	
 	// 歌单推荐 and 排行榜
 	$(function () {
 		var buildRecomPlaylist = function (html) {
