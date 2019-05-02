@@ -1,3 +1,3 @@
 # music
-
-版权原因 不再更新
+# 个人需求，强行更新
+# [https://cyfm.herokuapp.com](网址)
