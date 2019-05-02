@@ -3,14 +3,14 @@
 <html>
 <head>
   <?php include './head.php';?>
-  <title>全能VIP在线音乐解析 - 刘明野的工具箱</title>
+  <title>全能VIP在线音乐解析 - 陈 -内部私定版</title>
   <meta name="keywords" content="音乐解析,在线解析,QQ音乐解析,网易云音乐解析,网易云VIP解析,VIP音乐解析,免费下载,付费歌曲,收费歌曲,音乐解析网站,音乐解析下载,全能音乐解析">
-  <meta name="description" content="本站为广大网友提供QQ音乐网易云VIP解析服务，让你省去购买音乐VIP费用，欢迎大家收藏本站，并将它介绍给你的朋友！">
+  <meta name="description" content="本站为八（16）班提供QQ音乐网易云VIP解析服务，让你省去购买音乐VIP费用，请大家不要收藏本站，不要将它介绍给你的朋友！">
   <link rel="stylesheet" href="<?php echo SITE_URL;?>Public/css/main.css?v=<?php echo APP_VERSION;?>">
   <meta name="referrer" content="same-origin">
 </head>
 <body>
-<div id="loader"><div id="loader-content"></div><div id="loader-text">正在渲染页面<br>长时间停留此页面请刷新网页</div></div>
+<div id="loader"><div id="loader-content"></div><div id="loader-text">陈-正在渲染页面<br>长时间停留此页面请刷新网页</div></div>
 
 <div class="header">
 	<div class="am-container">
@@ -25,8 +25,7 @@
 					<li><a href="question.php#q1" target="_blank"><i class="am-icon-info"></i> 解析列表</a></li>
 					<li><a href="question.php#q2" target="_blank"><i class="am-icon-question"></i> 常见问题</a></li>
 					<li><a data-am-modal="{target: '#fenxiang'}"><i class="am-icon-share-alt"></i> 分享</a></li>
-					<li><a data-am-modal="{target: '#zanzhu'}"><i class="am-icon-jpy"></i> 赞助</a></li>
-			  </ul>
+								  </ul>
 			</div>
 		</div>
 		<div class="am-fr" id="fast-download">
@@ -44,7 +43,7 @@
 	<form id="search">
 		<div class="am-input-group am-input-group-secondary">
 		<select data-am-selected id="type">
-			<option value="qq">疼迅</option>
+			<option value="qq">QQ</option>
 			<option value="myfreemp3">MyFreeMp3</option>
 			<option value="netease">网易云</option>
 			<option value="kugou">酷狗</option>
@@ -96,7 +95,7 @@
 				安卓端用户请使用360极速浏览器。<br>
 				PC端用户请使用Chrome或QQ浏览器。<br>
 				下载速度取决于你的网速和配置。<br>
-				Ctrl+D可收藏本网站。
+
 			</div>
 		</div>
 	</div>
@@ -110,8 +109,8 @@
 	<div class="colour-border"><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div></div>
 	<div class="am-container">
 	本站本身不储存任何资源文件，资源来自互联网，仅供学习交流试听，禁用于任何商业用途或公开传播的场合，版权归唱片公司所有，请于下载后24小时内删除，支持购买正版专辑！<br>
-	如有侵权，请联系本人予以删除！w9091929@163.com<br>
-	© 2015 - 2019 刘明野的工具箱
+	<br>
+	© 2015 - 2019 陈
 	</div>
 </footer>
 <!-- 不显示的元素 -->
