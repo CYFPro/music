@@ -4,9 +4,9 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no">
-  <title>帮助信息 - 全能VIP在线音乐解析 - 刘明野的工具箱</title>
+  <title>帮助信息 - 全能VIP在线音乐解析 - 陈</title>
   <meta name="keywords" content="音乐解析,在线解析,QQ音乐解析,网易云音乐解析,网易云VIP解析,VIP音乐解析,免费下载,付费歌曲,收费歌曲,音乐解析网站,音乐解析下载,全能音乐解析">
-  <meta name="description" content="本站为广大网友提供QQ音乐网易云VIP解析服务，让你省去购买音乐VIP费用，欢迎大家收藏本站，并将它介绍给你的朋友！">
+  <meta name="description" content="">
   <link rel="stylesheet" href="https://cdnjs.loli.net/ajax/libs/amazeui/2.7.2/css/amazeui.flat.min.css">
   <link rel="stylesheet" href="../css/public.css">
   <meta http-equiv="Cache-Control" content="no-siteapp">
