@@ -6,4 +6,4 @@
 <link rel="shortcut icon" href="/favicon.ico">
 <link rel="apple-touch-icon" href="https://thirdqq.qlogo.cn/g?b=sdk&k=fXJhGbvrIeja8vD6FckWXA&s=100">
 <meta http-equiv="Cache-Control" content="no-siteapp">
-<!--[if IE]><script>window.location.href="http://tool.liumingye.cn/support/?referrer="+encodeURIComponent(location.href);</script><![endif]-->
+<!--[if IE]><script>window.location.href="https://cyfm.herokuapp.com/IE.php"+encodeURIComponent(location.href);</script><![endif]-->
